@@ -1,1 +1,2 @@
-Flight_Dynamics_Cessna_Citation
+# SVV_flightdynamics
+Group B06 2019 SVV Flight Dynamics
